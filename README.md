@@ -14,29 +14,32 @@ This is a simple Python application that generates QR codes based on student det
 
 1. Clone the repository:
 
-   ```shell
+   shell
    git clone https://github.com/Jishnuadhikary10/QR_CODE_GENERATOR.git
-Change to the project directory:
-cd QR_CODE_GENERATOR
+2. Change to the project directory:
 
-Install the required dependencies:
-    ```shell
-pip install qrcode Pillow
-2. Usage
+    shell
+    cd QR_CODE_GENERATOR
 
-Run the application by executing the following command:
-    ```shell
-python qr_code_generator.py
+3. Install the required dependencies:
+   shell
+   pip install qrcode Pillow
 
-3. Dependencies
-The following packages are required to run the application:
+4. Usage
+    Run the application by executing the following command:
+   shell
+    python qr_code_generator.py
 
--qrcode
--Pillow
+5.Dependencies
+    The following packages are required to run the application:
+
+    qrcode
+    Pillow
 
 These packages can be installed using the pip package manager. The requirements.txt file is provided with the project, which includes the necessary dependencies. You can install them by running the following command:
 pip install -r requirements.txt
 
-4. SCREENSHOT(pre-generated qr code)
+                                     
+          
 ![image](https://github.com/Jishnuadhikary10/QR_CODE_GENERATOR/assets/89401869/a68e94b7-0fbe-4461-8e19-3a61bef934cf)
 
